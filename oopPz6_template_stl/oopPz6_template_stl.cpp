@@ -51,7 +51,7 @@ int main()
 		}
 	}
 	cout << "Min: " << min << endl;
-	cout << *it2 << endl; // îøèáêà
+	cout << *it2 << endl; // îøèáêÀ
 
 
 
